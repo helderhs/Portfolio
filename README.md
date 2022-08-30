@@ -10,7 +10,7 @@ HTML, CSS, JAVASCRIPT, PHP 7+, ANGULARJS
 Login: teste
 Password: teste
 
-# site2: www.imarmore.app.br
+# site2: https://imarmore.com.br
 Login: teste
 Password: teste
 Ambos disponivel para visualização.
