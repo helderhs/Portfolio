@@ -13,7 +13,8 @@ Password: teste
 # site2: https://imarmore.com.br
 Login: teste
 Password: teste
-Ambos disponivel para visualização.
+
+# Ambos podem ser acessados clicando no topo a opção acessar o sistema.
 
 
 # Outros: Verificar fotos na pasta fotos
