@@ -17,7 +17,7 @@ Password: teste
 # Ambos podem ser acessados clicando no topo a opção acessar o sistema.
 
 
-# Outros: Verificar fotos na pasta fotos
+# Outros: Verificar fotos nas pastas.
 
 
 
